@@ -1,4 +1,4 @@
-VictoryVerse: IPL Predictor
+**VictoryVerse: IPL Predictor**
 
 The IPL Victory Predictor project utilizes machine learning to forecast match outcomes in the Indian Premier League (IPL) 📈🏆, drawing from a comprehensive dataset spanning from 2008 to 2023, sourced from https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020/data. It's a fun machine learning endeavor tailored for cricket enthusiasts interested in both cricket and machine learning, offering insights into team performance and victory determinants 💪📊
 
